@@ -1,1 +1,13 @@
+About
 
+🔗 Dataset: https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection
+
+The SMS Spam Collection is a publicly available dataset of labeled SMS messages, created for research in mobile phone spam detection. It consists of both spam and legitimate (ham) messages collected from real-world sources.
+
+The dataset includes:
+
+425 spam SMS messages, manually extracted from the Grumbletext website, a UK-based forum where users report SMS spam. Identifying the actual spam content required extensive manual review of user-submitted claims.
+
+3,375 legitimate (ham) messages randomly selected from the NUS SMS Corpus, a collection of SMS messages gathered for research at the National University of Singapore. These messages were contributed voluntarily, primarily by university students, with full awareness of public release.
+
+This corpus is widely used for benchmarking and developing text classification and spam filtering models.
