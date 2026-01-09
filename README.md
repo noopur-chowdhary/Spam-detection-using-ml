@@ -1,6 +1,7 @@
 **SMS Spam Classification Framework**
 
-  src="https://github.com/user-attachments/assets/013856cf-ff68-4ed7-b2f4-158cc78b2b95" />
+ ![Spam Filter Illustration](https://raw.githubusercontent.com/noopur-chowdhary/Spam-detection-using-ml/6bb049aabb98841bfc9e11e07d7d4cd5a38be1b1/Assets/spam_img_git.png)
+
 
 
 
