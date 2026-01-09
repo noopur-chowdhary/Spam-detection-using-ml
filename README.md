@@ -37,4 +37,4 @@ Unsolicited and malicious messages remain a persistent threat to digital communi
 
 
 
- ![Workflow]("https://github.com/user-attachments/assets/f58e8ef9-a652-4e75-8f29-4a4b6f8c1807)
+ ![Workflow](https://raw.githubusercontent.com/noopur-chowdhary/Spam-detection-using-ml/6bb049aabb98841bfc9e11e07d7d4cd5a38be1b1/Assets/workflow_git.png)
