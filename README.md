@@ -32,14 +32,7 @@ Unsolicited and malicious messages remain a persistent threat to digital communi
 
 
 
-**Workflow.**
 
-
-
-
- ![Workflow]# Spam Detection Project
-
-This project detects spam messages using machine learning.
 
 ## Workflow
 
