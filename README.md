@@ -37,4 +37,10 @@ Unsolicited and malicious messages remain a persistent threat to digital communi
 
 
 
- ![Workflow](https://raw.githubusercontent.com/noopur-chowdhary/Spam-detection-using-ml/6bb049aabb98841bfc9e11e07d7d4cd5a38be1b1/Assets/workflow_git.png)
+ ![Workflow]# Spam Detection Project
+
+This project detects spam messages using machine learning.
+
+## Workflow
+
+![Spam Detection Workflow](https://github.com/noopur-chowdhary/Spam-detection-using-ml/blob/main/Assets/workflow_git.png?raw=true)
